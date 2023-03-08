@@ -1,5 +1,8 @@
 # kubectl-helmrelease-info
 
+## 🔥 DEPRECATION NOTICE 🔥
+> I'm not maintaing this anymore because it was designed to work with Flux V1. Since Flux V2 is a thing and I'm an Argo boy these days, I won't continue updating this. That being said, I'll leave it here since it may still be useful to someone.
+
 *Simple kubectl plugin*
 
 If you're using [krew](https://github.com/kubernetes-sigs/krew), download and place in your /path/to/.krew/bin
